@@ -19,7 +19,7 @@ int main()
 
 	printf("%c", arr[2]);
 
-	/*for (i = 0; i < num; i++)
+	for (i = 0; i < num; i++)
 	{
 		if (arr[i] == ' ')
 		{
@@ -29,5 +29,7 @@ int main()
 			}
 			printf(" ");
 		}
-	}*/
+	}
+
+	printf()
 }
