@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\BIT\Desktop\ddd\Project11\Project11\소스.c(7,14): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\BIT\Desktop\ddd\Project11\Project11\소스.c(7,11): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Project11.vcxproj -> C:\Users\BIT\Desktop\ddd\Project11\x64\Debug\Project11.exe
